@@ -1,0 +1,9 @@
+[ 2013-06-28T23:03:34+08:00 ] 127.0.0.1 /speaker/myapp/
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Index/index.html]
+
+[ 2013-06-28T23:04:11+08:00 ] 127.0.0.1 /speaker/myapp/
+ERR: 模板不存在[index.html]
+
+[ 2013-06-28T23:05:00+08:00 ] 127.0.0.1 /speaker/myapp/
+ERR: 模板不存在[index.html]
+

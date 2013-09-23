@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android</string>
+    <string name="main_call">拦截电话</string>
+    <string name="main_sms">拦截短信</string>
+    <string name="main_contact">黑名单</string>
+    <string name="main_setting">设置</string>
+    <string name="more">更多</string>
+    
+</resources>

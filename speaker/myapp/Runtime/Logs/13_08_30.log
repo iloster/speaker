@@ -1,0 +1,567 @@
+[ 2013-08-30T09:14:12+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main
+ERR: 无法加载模块:Main
+
+[ 2013-08-30T09:14:19+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/main.html
+ERR: 无法加载模块:Main
+
+[ 2013-08-30T09:15:07+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:13+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:19+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:15:47+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:16:11+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:16:24+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/index.html]
+
+[ 2013-08-30T09:44:05+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Mian
+ERR: 无法加载模块:Mian
+
+[ 2013-08-30T10:31:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:31:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:31:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:31:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:31:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:31:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:31:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:31:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:31:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:31:38+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:40+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:40+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:40+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:40+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:40+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:54+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:54+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:54+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:32:54+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:32:54+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/index.html
+ERR: 模板不存在[D:/AppServ/www/speaker/myapp/Tpl/Main/main.html]
+
+[ 2013-08-30T10:34:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:34:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:34:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/jquery-1.9.1.min.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:34:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/js/flexy-menu.js
+ERR: 非法操作:js
+
+[ 2013-08-30T10:34:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:34:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:03+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:03+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:03+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:03+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:03+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:04+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:04+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:04+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:04+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:36:04+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:37:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:37:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:37:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:37:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:37:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:39:33+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:39:33+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:39:33+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:39:33+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:39:33+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:40:48+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:40:49+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:40:49+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:40:49+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:40:49+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:30+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:30+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:30+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:30+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:30+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:45:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:26+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:26+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:26+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:26+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:26+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:58+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:58+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:58+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:58+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:47:58+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:48:36+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Main_Public/img/texture.png
+ERR: 非法操作:Main_Public
+
+[ 2013-08-30T10:50:15+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:15+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:15+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:15+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:15+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/img/texture.png
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/img/texture.png
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:31+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Index_Public/img/dots.png
+ERR: 无法加载模块:Index_Public
+
+[ 2013-08-30T10:50:31+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Index_Public/img/bg.jpg
+ERR: 无法加载模块:Index_Public
+
+[ 2013-08-30T10:50:31+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Index_Public/fonts/broccolidry.svg
+ERR: 无法加载模块:Index_Public
+
+[ 2013-08-30T10:50:31+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Index_Public/fonts/broccolidry.woff
+ERR: 无法加载模块:Index_Public
+
+[ 2013-08-30T10:50:31+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Index_Public/fonts/broccolidry.ttf
+ERR: 无法加载模块:Index_Public
+
+[ 2013-08-30T10:50:37+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/flexy-menu.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:37+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/img/texture.png
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:37+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/css/font-awesome.css
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:37+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/flexy-menu.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:50:37+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__APP_TMPL_PATH__/Main/Main_Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:__APP_TMPL_PATH__
+
+[ 2013-08-30T10:52:43+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/flexy-menu.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:43+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/font-awesome.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/jquery-1.9.1.min.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/flexy-menu.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/img/texture.png
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:45+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/flexy-menu.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:45+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/flexy-menu.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:45+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/font-awesome.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:45+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/jquery-1.9.1.min.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:52:45+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/img/texture.png
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/flexy-menu.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/font-awesome.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/jquery-1.9.1.min.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/flexy-menu.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:25+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/img/texture.png
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:27+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/flexy-menu.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:27+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/css/font-awesome.css
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:27+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/jquery-1.9.1.min.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:27+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/js/flexy-menu.js
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:55:27+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/MainPublic/img/texture.png
+ERR: 非法操作:MainPublic
+
+[ 2013-08-30T10:57:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/css/flexy-menu.css
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:58:00+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/css/flexy-menu.css
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:58:00+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/css/font-awesome.css
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:58:00+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/js/flexy-menu.js
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:58:00+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/js/jquery-1.9.1.min.js
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:58:00+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/__THEME_PATH__/MainPublic/img/texture.png
+ERR: 非法操作:__THEME_PATH__
+
+[ 2013-08-30T10:59:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/flexy-menu.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T10:59:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/font-awesome.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T10:59:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T10:59:34+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/flexy-menu.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T10:59:35+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/img/texture.png
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:02:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/font-awesome.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:02:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/flexy-menu.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:02:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/flexy-menu.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:02:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:02:44+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/img/texture.png
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:03:17+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/flexy-menu.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:03:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/css/font-awesome.css
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:03:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/flexy-menu.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:03:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:03:18+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public/img/texture.png
+ERR: 非法操作:Public
+
+[ 2013-08-30T11:04:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/flexy-menu.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/font-awesome.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/flexy-menu.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:52+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/img/texture.png
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/font-awesome.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/flexy-menu.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/flexy-menu.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:55+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/img/texture.png
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:57+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:57+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/font-awesome.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:57+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/flexy-menu.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:57+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/flexy-menu.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:57+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/img/texture.png
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:59+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/flexy-menu.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:59+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/flexy-menu.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:59+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/font-awesome.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:59+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:04:59+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/img/texture.png
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:05:22+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/flexy-menu.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:05:22+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/css/font-awesome.css
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:05:22+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/jquery-1.9.1.min.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:05:22+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/js/flexy-menu.js
+ERR: 非法操作:Public1
+
+[ 2013-08-30T11:05:22+08:00 ] 127.0.0.1 /speaker/myapp/index.php/Main/Public1/img/texture.png
+ERR: 非法操作:Public1
+

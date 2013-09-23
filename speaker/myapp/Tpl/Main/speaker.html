@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="modern.css" rel="stylesheet">
+<title>后台---喇叭说</title>
+</head>
+<script>
+$("#collapseOne").collapse({toggle:false});
+function open_collapse()
+{
+   $("#collapseOne").collapse("show");
+}
+</script>
+<body>
+  <include file="nav"/>
+  <div class="nav1">
+	<ul class="flexy-menu orange">
+		<li><a href="__URL__/index"><i class="icon-heart"></i>Home</a></li>
+		<li class="active"><a href="__URL__/speaker/string/Speaker"><i class="icon-cogs"></i>喇叭说</a></li>
+		<li><a href="__URL__/speaker/string/Found"><i class="icon-th"></i>寻物招领</a>		</li>
+        <li><a href="__URL__/speaker/string/Notice"><i class="icon-bullhorn"></i>校园活动</a></li>
+		<li><a href="__URL__/contact"><i class="icon-envelope"></i>联系我们</a></li>
+	</ul>
+</div>
+<div class="form-speaker">
+  <div class="insert-btn">
+        <a style="cursor:pointer;text-decoration:none" data-toggle="collapse"  data-target="#collapseOne" onClick="open_collapse()">
+                                           添加
+      </a>
+      </div>
+  <div class="form-class">
+    <div id="collapseOne" class="collapse">
+      <form action="__URL__/speaker_insert/string/Speaker" class="form-horizontal" method="post">
+          <div class="control-group">
+            <label class="control-label">内容:</label>
+              <div class="controls">
+                <textarea rows="3" cols="100" placeholder="今天想对大家说什么" name="content_speaker"></textarea>
+              </div>
+          </div>
+         <div class="control-group">
+           <label class="control-label">日期:</label>
+              <div class="controls">
+                 <input type="text" name="time_speaker" placeholder="格式:x月x日">
+              </div>
+          </div>
+        <div class="control-group">
+          <div class="controls">
+            <button type="submit" class="btn">提交</button>
+         </div>
+         </div>
+      </form>
+      </div>
+</div>
+  </div>
+  <div class="table-speaker">
+      <table class="table table-hover table-bordered"  style="word-break:break-all; word-wrap:break-all;">
+
+             <tr>
+                  <td width="5%">序号</td>
+                 <td style="word-break:break-all; word-wrap:break-all;width:75%">内容</td>
+                  <td width="10%">时间</td>
+                 <td width="10%">操作</td>
+            </tr>
+           <volist name="data" id="vo">
+            <tr>
+                <td>{$i}</td>
+               <td>{$vo.content}</td>
+               <td>{$vo.time}</td>
+               <td><a href="__URL__/speaker_del/string/Speaker/id/{$vo.id}">删除</a></td>
+             </tr>
+
+          </volist>
+      </table>
+      <div  class="pagination pagination-large" style="text-align:center">{$show}</div>
+  </div>
+
+</body>
+</html>
